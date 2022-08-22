@@ -11,7 +11,7 @@ Experienced software developer with a passion for developing innovative software
 * 🧠  I'm learning Flutter, Dart, Go( Golang ), MySQL, Firebase, Laravel, MonogoDB, Docker & Kubernetes. and much more
 * 🤝  I'm open to collaborating on any open source project
 
-<a href="https://www.twitter.com/ayoubali010" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/ayoub_zulfiqar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ayoubali010?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a><a href="https://www.github.com/ayoubzulfiqar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayoubzulfiqar?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
