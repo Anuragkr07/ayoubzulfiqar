@@ -49,3 +49,8 @@ src="https://img.shields.io/github/followers/ayoubzulfiqar?logo=github&style=for
 <a href="http://www.github.com/ayoubzulfiqar"><img src="https://activity-graph.herokuapp.com/graph?username=ayoubzulfiqar&bg_color=ffffff&color=000000&line=3382ed&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ayoubzulfiqar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubzulfiqar&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+## Snake Contributions
+
+![snake gif](https://github.com/ayoubzulfiqar/ayoubzulfiqar/blob/output/github-contribution-grid-snake.gif)
